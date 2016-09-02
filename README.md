@@ -13,7 +13,7 @@ It is Turing complete, although I do not advise doing any serious programming in
 | `/|||||/` | output the character signified by the cell at the pointer
 | `/||||||/` | input a character and store it in the cell at the pointer
 | `/|||||||/` | jump past the matching `/||||||||/` if the cell under the pointer is 0
-| `/||||||||/`| Jump back to the matching `/|||||||/` if the cell under the pointer is nonzero
+| `/||||||||/`| jump back to the matching `/|||||||/` if the cell under the pointer is nonzero
 				
 All characters other than / and | are (should be) ignored.
 
