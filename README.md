@@ -31,6 +31,7 @@ Usage: `bf2psh.py [inputfile] [> outputfile]`
 - Interpreter
 - REPL?
 - Compiler?
+- Formatting in the translators
 
 
 Have fun with this completely pointless language!
