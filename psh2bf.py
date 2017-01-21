@@ -13,7 +13,7 @@ def file_to_string():
 		data=myfile.read().replace('\n', '')
 	return data
 
-infileraw = file_to_string()
+infileraw = re.sub('[^/|\|]', '', file_to_string())
 infile = re.sub(r'(?<!/)/(?!/)', '', infileraw).replace('//', ' ')
 
 dic = {'|':'>',
