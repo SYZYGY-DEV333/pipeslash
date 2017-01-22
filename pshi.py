@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 # Crappy Pipeslash interpreter
-# Licensed under the Simple Permissive License v1.0 [splicense.pen.io]
+
 # Copyright (c) 2017, SYZYGY-DEV333
+# All rights reserved.
+# Licensed under SPL 1.0 [splicense.pen.io]
 
 import argparse
 import re
