@@ -44,7 +44,7 @@ Usage: `bf2psh.py [inputfile] [> outputfile]`
 Have fun with this completely pointless language!
 
 ### Bonus License info
-All this is licensed under the [Simple Permissive License](http://splicense.pen.io), version 1.0. I like this licence, 
+All this is licensed under the [Simple Permissive License](https://gist.github.com/SYZYGY-DEV333/98c3b48c0d5a755a0f503b12be8807ac), version 1.0. I like this licence, 
 you should check it out!
 
 Also, I might be slightly biased, since I made it.
