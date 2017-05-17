@@ -19,12 +19,10 @@ Or if you want to **seriously** confuse an antivirus (again, I take no responsib
 				
 All characters other than / and | are (should be) treated as comments.
 
-## pshi.py
-This is the (rather lame) interpreter. It is basically psh2bf attached to a simple brainf*** interpreter.
+## pshi
+This is the (no longer lame) interpreter. It basically translates the code to brainf*** and then interprets it.
 
-Usage: `pshi.py [inputfile]`
-
-I plan on writing a better one in the future, but for now this is it.
+Usage: `pshi [inputfile]`
 
 ## psh2bf.py
 Translates pipeslash to brainf***
