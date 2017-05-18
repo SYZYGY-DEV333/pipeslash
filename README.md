@@ -24,6 +24,11 @@ This is the (no longer lame) interpreter. It basically translates the code to br
 
 Usage: `pshi [inputfile]`
 
+## pshc
+This somewhat sloppily compiles pipeslash to completely unreadable, but still functional C.
+
+Usage: `pshc [inputfile] [> outputfile]`
+
 ## psh2bf.py
 Translates pipeslash to brainf***
 
