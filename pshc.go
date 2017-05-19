@@ -36,7 +36,7 @@ func translate(src string) string {
 var beginning = (
 `#include <stdio.h>
 int main(){
-char array[30000] = {0};
+char array[65536] = {0};
 char *ptr=array;`)
 
 func main() {
